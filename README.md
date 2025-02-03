@@ -20,7 +20,8 @@ This advanced course is complemented by these lab sessions to guide students thr
 
 ### [Optional] Fork the repository
 
-If you want to save your changes on Github, you can fork the repository by clicking on the "Fork" button at the top of the page. This will create a copy of the repository in your GitHub account, where you can make changes and save them.
+If you want to save your changes on Github, you can fork the repository by clicking on the "Fork" button at the top of the page. 
+This will create a copy of the repository in your GitHub account, where you can make changes and save them.
 
 > [!IMPORTANT]
 > If you fork the repository, open the notebooks from Google Colab "File" menu, selecting "Open notebook" -> "GitHub" and choosing your forked repository. This way, the changes you make will be directly saved in your forked repository.
