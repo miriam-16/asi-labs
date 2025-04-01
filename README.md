@@ -13,6 +13,7 @@ This advanced course is complemented by these lab sessions to guide students thr
 |:-----|:---------|:-----|
 | **Week 0** | Introduction to Python/Numpy  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eurecom-ds/asi-labs/blob/master/lab_week0/Tutorial_Python.ipynb)|
 | **Week 1** | Bayesian linear regression    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eurecom-ds/asi-labs/blob/master/lab_week1/Bayesian_Linear_Regression.ipynb)|
+| **Week 2** | Logistic regression with MCMC | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eurecom-ds/asi-labs/blob/master/lab_week2/Bayesian_Logistic_Regression_MCMC.ipynb)|
 
 
 > [!TIP]
